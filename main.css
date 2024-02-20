@@ -1,0 +1,56 @@
+html {
+    background-color: aquamarine;
+}
+a {
+    text-decoration: none;
+    color: green;
+    font-size: 20px;
+}
+.bloco1{
+    margin: 5% auto;
+    padding: 15px 15px;
+    width: 50%;
+    height: 50%;
+    border: 2px;
+    background-color: rgb(248, 224, 192);
+    border-radius: 7px;
+    flex-direction: column;
+
+}
+img {
+    height: 95px;
+    width: 120px;
+    position: relative;
+    margin-top: -26px;
+    border-radius: 7px;
+    right: auto;
+    
+    
+}
+.titulo1{
+    text-align: center;
+    font-size: 45px;
+    color: green;
+}
+.titulo2 {
+    color: green;
+}
+.titulo3{
+    color: darkgray;
+}
+.titulo4 {
+    color: darkgray;
+}
+.titulo5 {
+    color: darkgray;
+}
+.titulo10 {
+    text-align: center;
+}
+button {
+    cursor: pointer;
+    background-color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 7px;
+}
