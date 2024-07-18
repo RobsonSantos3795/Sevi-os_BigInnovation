@@ -9,3 +9,9 @@ function penetrar() {
 function despenetrar() {
     b.style.background = 'yellow';
 }
+
+// Alteração de página
+
+function pag1() {
+    location.href = 'index.html'
+}

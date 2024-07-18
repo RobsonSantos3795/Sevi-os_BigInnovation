@@ -2,9 +2,7 @@ function logar() {
     location.href = "index2.html";
 }
 
-function pag1() {
-    location.href = "index.html";
-}
+// Interação do botão
 
 var a = window.document.getElementById('area');
 
